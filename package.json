@@ -22,5 +22,15 @@
     "vue-template-compiler": "^2.3.3",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evosweet/vue-project.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evosweet/vue-project/issues"
+  },
+  "homepage": "https://github.com/evosweet/vue-project#readme"
 }
