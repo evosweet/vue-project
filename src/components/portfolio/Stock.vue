@@ -1,0 +1,3 @@
+<template>
+    Portfolio / stock
+</template>
