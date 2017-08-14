@@ -1,6 +1,6 @@
-# stock-trade
+# stock-project
 
-> vue stock app
+> stock app
 
 ## Build Setup
 

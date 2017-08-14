@@ -1,7 +1,7 @@
 {
-  "name": "stock-trade",
+  "name": "stock-project",
   "version": "1.0.0",
-  "description": "vue stock app",
+  "description": "stock app",
   "author": "Rayon Hunte <rayon.hunte@gmail.com>",
   "private": true,
   "scripts": {
